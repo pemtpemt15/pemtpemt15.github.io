@@ -36,6 +36,11 @@ menu:
       url: /tags/
       weight: 2
 
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+
 outputs:
   home:
     - HTML
