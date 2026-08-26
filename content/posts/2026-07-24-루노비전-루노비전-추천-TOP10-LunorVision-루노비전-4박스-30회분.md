@@ -1,13 +1,14 @@
 ---
-title: "루노비전 추천 TOP10 — LunorVision 루노비전, 4박스, 30회분"
+title: "루노비전 정품확인방법 추천 TOP10 — 2026년 8월 기준"
 date: 2026-07-24T13:18:25+09:00
+lastmod: 2026-08-27
 draft: false
 categories: ["shopping"]
 tags: ["Top10", "shopping", "루노비전"]
 keywords: ["루노비전", "Top10", "shopping"]
 author: "pemtpemt15"
-description: "루노비전 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 현대인의 필수품이 된 눈 건강 관리, 이제 '루노비전'으로 시작해 보세요. 오랜 시간 모니터와 스마트폰을 보는 당신의 눈은 혹사당하고 있습니다. 루노비전은 지친 눈에 필요한 영양을…"
-summary: "루노비전 인기 상품을 가격·평점·리뷰 기준으로 정리한 TOP10 추천 리스트입니다. 현대인의 필수품이 된 눈 건강 관리, 이제 '루노비전'으로 시작해 보세요. 오랜 시간 모니터와 스마트폰을 보는 당신의 눈은 혹사당하고 있습니다. 루노비전은 지친 눈에 필요한 영양을…"
+description: "루노비전 정품확인방법 추천 TOP10 (2026년 8월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
+summary: "루노비전 정품확인방법 추천 TOP10 (2026년 8월). 가격·평점·로켓배송 비교와 구매 전 체크리스트까지 정리했습니다."
 cover:
   image: "https://thumbnail.coupangcdn.com/thumbnails/remote/657x657q90trim/image/vendor_inventory/cd70/498695c2318381d46f5c87243ee2d8243183286e3eb06acab23efd3e273b.png"
   alt: "루노비전 추천 TOP10 — LunorVision 루노비전, 4박스, 30회분"
